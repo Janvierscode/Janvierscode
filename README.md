@@ -2,11 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvierscode/)
 [![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Janvierscode)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janvierscode)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/janvierscode)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Janvierscode)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22605433/janvierscode)
-
+<!--[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janvierscode)-->
 ---
 
 ## 👨‍💻 About Me
@@ -51,9 +50,13 @@ I have a strong interest in leveraging technology to solve real-world problems a
 
 ## 📈 GitHub Stats
 
-<!-- ![Janvier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janvierscode&show_icons=true&theme=radical)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janvierscode&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janvierscode&theme=radical)
+
+
+<!-- ![Janvier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janvierscode&show_icons=true&theme=radical)-->
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janvierscode&layout=compact&theme=radical)
 
 ---
 
@@ -79,7 +82,6 @@ I am always open to connecting, working, and collaborating on interesting projec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvierscode/)
 [![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Janvierscode)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janvierscode)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22605433/janvierscode)
 
 ---
