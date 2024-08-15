@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-![Profile Banner](https://github.com/janvierscode/janvierscode/assets/janvierscode.png)
+![Profile Banner](https://github.com/janvierscode/janvierscode/janvierscode.png)
 
 I am a passionate web and mobile app developer, currently on my journey to becoming a Full Stack Developer. I am pursuing a Bachelor of Science Honors in Computer Engineering at the University of Zimbabwe, with an expected graduation in 2025.
 
