@@ -44,7 +44,7 @@ I have a strong interest in leveraging technology to solve real-world problems a
 
 ## 🎯 My Roadmap
 
-[![roadmap.sh](./roadmap.png)
+![roadmap.sh](./roadmap.png)
 
 ---
 
