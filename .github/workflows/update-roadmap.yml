@@ -1,12 +1,12 @@
 name: Update Roadmap
 
 permissions:
-  contents: write  # This allows the action to push changes to the repository
+  contents: write
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This runs the workflow every day at midnight
-  workflow_dispatch:  # Allows manual triggering of the workflow
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-roadmap:
@@ -21,26 +21,18 @@ jobs:
       - name: Download Roadmap Image
         run: |
           curl -L -o roadmap.png "https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark"
+          head -n 20 roadmap.png  # Print the first 20 lines of the downloaded file to check its content
 
       - name: Verify Image
         run: |
-          file roadmap.png  # Check the file type to ensure it's a valid PNG
-          identify roadmap.png  # Get image details using ImageMagick
-
-      - name: Convert to SVG (If Downloaded Correctly)
-        run: |
-          if file roadmap.png | grep -q 'PNG image data'; then
-            convert roadmap.png roadmap.svg
-          else
-            echo "Downloaded file is not a valid PNG image."
-            exit 1
-          fi
+          file roadmap.png
+          identify roadmap.png
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "iyakaremyejan@gmail.com"
           git config --local user.name "Janvier Iyakaremye"
-          git add roadmap.svg
+          git add roadmap.png
           git diff-index --quiet HEAD || git commit -m "Update roadmap"
           git push
         env:
