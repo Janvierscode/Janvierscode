@@ -3,25 +3,25 @@ name: Update Roadmap
 on:
   schedule:
     - cron: '0 0 * * *'  # This runs the workflow every day at midnight
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   update-roadmap:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to the latest version
 
       - name: Update Roadmap Image
         run: |
           curl -o roadmap.png "https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark"
-
+      
       - name: Commit and Push Changes
         run: |
           git config --local user.email "iyakaremyejan@gmail.com"
-          git config --local user.name "Janvier"
+          git config --local user.name "Janvier Iyakaremye"
           git add roadmap.png
-          git commit -m "Update roadmap"
+          git diff-index --quiet HEAD || git commit -m "Update roadmap"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
