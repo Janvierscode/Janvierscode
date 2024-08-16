@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Updated to the latest version
+        uses: actions/checkout@v4
 
       - name: Install ImageMagick
         run: sudo apt-get install imagemagick
@@ -27,17 +27,20 @@ jobs:
           file roadmap.png  # Check the file type to ensure it's a valid PNG
           identify roadmap.png  # Get image details using ImageMagick
 
-      - name: Crop Image
-        run: convert roadmap.png -trim +repage roadmap-cropped.png
-
-      - name: Convert to SVG
-        run: convert roadmap-cropped.png roadmap.svg
+      - name: Convert to SVG (If Downloaded Correctly)
+        run: |
+          if file roadmap.png | grep -q 'PNG image data'; then
+            convert roadmap.png roadmap.svg
+          else
+            echo "Downloaded file is not a valid PNG image."
+            exit 1
+          fi
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "iyakaremyejan@gmail.com"
           git config --local user.name "Janvier Iyakaremye"
-          git add roadmap-cropped.png roadmap.svg
+          git add roadmap.svg
           git diff-index --quiet HEAD || git commit -m "Update roadmap"
           git push
         env:
