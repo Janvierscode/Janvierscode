@@ -15,15 +15,24 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4  # Updated to the latest version
 
-      - name: Update Roadmap Image
+      - name: Install ImageMagick
+        run: sudo apt-get install imagemagick
+
+      - name: Download Roadmap Image
         run: |
-          curl -o roadmap.png "https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark"
-      
+          curl -L -o roadmap.png "https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark"
+
+      - name: Crop Image
+        run: convert roadmap.png -trim +repage roadmap-cropped.png
+
+      - name: Convert to SVG
+        run: convert roadmap-cropped.png roadmap.svg
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "iyakaremyejan@gmail.com"
           git config --local user.name "Janvier Iyakaremye"
-          git add roadmap.png
+          git add roadmap-cropped.png roadmap.svg
           git diff-index --quiet HEAD || git commit -m "Update roadmap"
           git push
         env:
