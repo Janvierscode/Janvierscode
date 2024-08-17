@@ -43,8 +43,7 @@ I have a strong interest in leveraging technology to solve real-world problems a
 ---
 
 ## 🎯 My Roadmap
-[![roadmap.sh](https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark)](https://roadmap.sh)
-
+[![roadmap.sh](https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark&timestamp=202408171234)](https://roadmap.sh)
 ---
 
 ## 📈 GitHub Stats
@@ -55,7 +54,7 @@ I have a strong interest in leveraging technology to solve real-world problems a
 <!-- ![Janvier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janvierscode&show_icons=true&theme=radical)-->
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janvierscode&layout=compact&theme=radical)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janvierscode&layout=compact&theme=radical)-->
 
 ---
 
