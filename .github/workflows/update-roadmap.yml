@@ -1,39 +1,31 @@
-name: Update Roadmap
-
-permissions:
-  contents: write
+name: Update README with Timestamp
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    # Runs every day at midnight UTC. Adjust the schedule as needed.
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering of the workflow.
 
 jobs:
-  update-roadmap:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick
-        run: sudo apt-get install imagemagick
-
-      - name: Download Roadmap Image
+      - name: Update README with current timestamp
         run: |
-          curl -L -o roadmap.png "https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark"
-          head -n 20 roadmap.png  # Print the first 20 lines of the downloaded file to check its content
+          # Generate the current timestamp
+          TIMESTAMP=$(date +'%Y%m%d%H%M%S')
+          
+          # Replace the timestamp in README.md
+          sed -i "s/timestamp=[0-9]*/timestamp=${TIMESTAMP}/" README.md
 
-      - name: Verify Image
+      - name: Commit and push changes
         run: |
-          file roadmap.png
-          identify roadmap.png
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "iyakaremyejan@gmail.com"
-          git config --local user.name "Janvier Iyakaremye"
-          git add roadmap.png
-          git diff-index --quiet HEAD || git commit -m "Update roadmap"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with new timestamp ${TIMESTAMP}"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
