@@ -48,7 +48,8 @@ I have a strong interest in leveraging technology to solve real-world problems a
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janvierscode&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janvierscode&theme=tokyonight&hide_border=true&ring=ff6347&fire=ff4500&currStreakLabel=🔥%20Current%20Streak&sideLabels=🏆%20Longest%20Streak&cache_bust=1)
+
 
 
 <!-- ![Janvier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janvierscode&show_icons=true&theme=radical)-->
