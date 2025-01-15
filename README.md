@@ -43,7 +43,7 @@ I have a strong interest in leveraging technology to solve real-world problems a
 ---
 
 ## 🎯 My Roadmap
-[![roadmap.sh](https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark&timestamp=20250114003640)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark&timestamp=20250115003748)](https://roadmap.sh)
 ---
 
 ## 📈 GitHub Stats
