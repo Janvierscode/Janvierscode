@@ -1,12 +1,12 @@
 ## 🌟 Hi there🙋‍♂️, Welcome🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvierscode/)
-<!--[![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Janvierscode)-->
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/janvierscode)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Janvierscode)
-<!--[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22605433/janvierscode)
+<!--[![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Janvierscode)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22605433/janvierscode)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janvierscode)-->
-
+---
 
 ## 👨‍💻 About Me
 
@@ -40,7 +40,7 @@ I have a strong interest in leveraging technology to solve real-world problems a
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
 
 <!--## 🎯 My Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/66b06abcc3e10bac2503fea1?variant=dark&timestamp=20250126003842)](https://roadmap.sh)
@@ -80,11 +80,12 @@ _Bachelor of Science Honors in Computer Engineering_
 I am always open to connecting, working, and collaborating on interesting projects. Feel free to reach out to me through any of the platforms below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvierscode/)
-[![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Janvierscode)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22605433/janvierscode)
+<!--[![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Janvierscode)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22605433/janvierscode)-->
 
 ---
 
 ### 🌱 “The best way to predict the future is to create it.” – Peter Drucker
 
-
+---
+---
