@@ -23,12 +23,17 @@ I'm a **Computer Engineering student** at the University of Zimbabwe (graduating
 * **Other Interests:**   AI & ML, Generative AI, Tensorflow, Docker & Kubernetes, GitHub Actions, 
 
 ---
+## 📌 Pinned Projects
 
-## 📌 Pinned Projects & Activity
+### 🧑‍💻 Selected Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=african-recipes&theme=tokyonight&show_owner=true)](https://github.com/Janvierscode/african-recipes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=maize-app-api&theme=tokyonight&show_owner=true)](https://github.com/Janvierscode/maize-app-api)
+[![african-recipes](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=african-recipes&theme=tokyonight)](https://github.com/Janvierscode/african-recipes)
+[![maize-app-api](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=maize-app-api&theme=tokyonight)](https://github.com/Janvierscode/maize-app-api)
+
+### 📊 GitHub Activity
+
 [![Janvier's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janvierscode&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Janvierscode)
+
 
 ---
 
