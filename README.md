@@ -26,8 +26,8 @@ I'm a **Computer Engineering student** at the University of Zimbabwe (graduating
 
 ## 📌 Pinned Projects & Activity
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=REPO_NAME_1&theme=tokyonight&show_owner=true)](https://github.com/Janvierscode/african-recipes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=REPO_NAME_2&theme=tokyonight&show_owner=true)](https://github.com/Janvierscode/maize-app-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=african-recipes&theme=tokyonight&show_owner=true)](https://github.com/Janvierscode/african-recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=maize-app-api&theme=tokyonight&show_owner=true)](https://github.com/Janvierscode/maize-app-api)
 [![Janvier's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janvierscode&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Janvierscode)
 
 ---
