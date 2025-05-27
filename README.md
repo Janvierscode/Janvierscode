@@ -1,4 +1,4 @@
-# Janvier | Final-year Computer Engineering student | Python, SQL, R, Power BI | Building AI agents & exploring ML | Built with Django, React, Flutter | Future Data Scientist | Open to collaboration & roles
+# 👋 About Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvierscode/)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/janvierscode)
@@ -6,47 +6,67 @@
 
 ---
 
-## 👋 About Me
-
 ![Profile Banner](https://github.com/Janvierscode/Janvierscode/blob/main/janvierscode.png?raw=true)
 
-I'm a **Computer Engineering student** at the University of Zimbabwe (graduating 2025), passionate about building robust web and mobile applications. I enjoy both front-end and back-end development and am always eager to learn and collaborate on impactful projects.
+**Data fuels decisions.**  
+**Insights drive transformation.**
+
+I’m a final-year Computer Engineering student at the University of Zimbabwe, expected to graduate in September 2025. I specialize in data analysis, statistical modeling, and data-driven problem solving, with hands-on experience in Python, R, SQL, Excel, and Power BI.
+
+🔎 As a data professional, I extract actionable insights from complex datasets to support strategic decision-making in banking and fintech. I build end-to-end workflows—from data ingestion and cleaning to exploratory analysis, visualization, and predictive modeling.
+
+🚀 **Technical Highlights:**
+- **Data Wrangling & EDA:** Pandas · NumPy
+- **Statistical Analysis & Modeling:** scikit-learn · StatsModels
+- **Data Visualization:** Matplotlib · Seaborn · Power BI · Tableau
+- **Database Management:** PostgreSQL · MySQL · MongoDB
+- **Machine Learning & AI:** TensorFlow · scikit-learn
+- **Tools & Workflows:** Git · Docker · Kubernetes · GitHub Actions · Jupyter Notebooks
+
+💡 I’m passionate about leveraging machine learning to solve real-world finance challenges, such as credit risk modeling and financial forecasting. I’m seeking full-time opportunities as a Data Analyst or Junior Data Scientist in banking, fintech, or finance-focused roles.
+
+Let’s connect if you’re hiring for data roles or collaborating on AI and analytics projects.
 
 ---
-
 ## 🛠️ Core Tech Stack
 
-* **Languages:***   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-* **Frontend:**   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-* **Backend:**   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-* **Databases:**   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-* **Other Interests:**   AI & ML, Generative AI, Tensorflow, Docker & Kubernetes, GitHub Actions, 
+**Data & Analytics:**  
+Python · R · SQL · Excel · Power BI · Tableau  
+Pandas · NumPy · Matplotlib · Seaborn  
+scikit-learn · StatsModels · Jupyter Notebooks
+
+**Databases:**  
+PostgreSQL · MySQL · MongoDB
+
+**Development:**  
+Django · Flask · React · Next.js · Flutter
+
+**Languages:**  
+Python · JavaScript · Dart
+
+**Tools:**  
+Git · Docker · Kubernetes · GitHub Actions · Azure · AWS
 
 ---
-## 📌 Pinned Projects
+<!--## 📌 Pinned Projects
 
 ### 🧑‍💻 Selected Repos
 
 [![african-recipes](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=african-recipes&theme=tokyonight)](https://github.com/Janvierscode/african-recipes)
 [![maize-app-api](https://github-readme-stats.vercel.app/api/pin/?username=Janvierscode&repo=maize-app-api&theme=tokyonight)](https://github.com/Janvierscode/maize-app-api)
-
+-->
 ### 📊 GitHub Activity
 
 [![Janvier's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janvierscode&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Janvierscode)
 
-
 ---
-
 ## 🎓 Education
 
-**University of Zimbabwe**
-_BSc (Hons) Computer Engineering_
-_(Expected Graduation: 2025)_
+**University of Zimbabwe**  
+BSc (Hons) Computer Engineering  
+*Expected Graduation: September 2025*
 
 ---
+## 📫 Let’s Connect
 
-## 📫 Let's Connect
-
-Open to collaboration and connecting with fellow developers! Reach out via [LinkedIn](https://www.linkedin.com/in/janvierscode/).
-
----
+Reach out via [LinkedIn](https://www.linkedin.com/in/janvierscode/) to discuss data opportunities or collaborations!
