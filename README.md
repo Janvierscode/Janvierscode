@@ -6,7 +6,7 @@
 
 ---
 
-![Profile Banner](https://github.com/Janvierscode/Janvierscode/blob/main/janvierscode.png?raw=true)
+![Profile Banner](https://github.com/Janvierscode/Janvierscode/blob/main/banner.png?raw=true)
 
 **Data fuels decisions.**  
 **Insights drive transformation.**
