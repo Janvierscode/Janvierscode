@@ -1,4 +1,4 @@
-# Janvier | Full-Stack Developer & Computer Engineering Student
+# Janvier | Final-year Computer Engineering student | Python, SQL, R, Power BI | Building AI agents & exploring ML | Built with Django, React, Flutter | Future Data Scientist | Open to collaboration & roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvierscode/)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/janvierscode)
